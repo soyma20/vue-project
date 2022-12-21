@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-<!--  <main>-->
-<!--    <TheWelcome />-->
-<!--  </main>-->
+  <main>
+    <div>I am landing page</div>
+  </main>
 </template>
